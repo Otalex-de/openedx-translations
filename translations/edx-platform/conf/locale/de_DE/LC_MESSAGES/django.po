@@ -21876,7 +21876,7 @@ msgstr ""
 "und werde Übersetzer!{link_end}"
 
 #: lms/templates/navigation/navbar-not-authenticated.html:33
-msgid "Explore Courses"
+msgid "Discover courses"
 msgstr "Kursübersicht"
 
 #: lms/templates/navigation/navigation.html:44
@@ -22194,8 +22194,8 @@ msgid "Please Wait"
 msgstr "Bitte warten"
 
 #: lms/templates/student_account/login_and_register.html:12
-msgid "Sign in or Register"
-msgstr "Anmelden oder Registrieren"
+msgid "Register for free"
+msgstr "Registrieren"
 
 #: lms/templates/support/certificates.html:21
 #: lms/templates/support/index.html:12 lms/templates/support/index.html:17

@@ -8555,6 +8555,7 @@ msgstr "Suche löschen"
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:11
 #: lms/djangoapps/support/static/support/templates/manage_user.underscore:3
 #: lms/djangoapps/support/static/support/templates/manage_user.underscore:11
+#: lms/static/js/discovery/views/search_form.js:47
 msgid "Search"
 msgstr "Suchen"
 

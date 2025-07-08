@@ -10909,3 +10909,10 @@ msgstr ""
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:26
 msgid "Sorry, no results were found."
 msgstr "Es wurden leider keine Ergebnisse gefunden."
+
+#: lms/static/js/discovery/views/search_form.js:47
+#, javascript-format
+msgid "Viewing %s course"
+msgid_plural "Viewing %s courses"
+msgstr[0] "%s Kurs wird angezeigt"
+msgstr[1] "%s Kurse werden angezeigt"

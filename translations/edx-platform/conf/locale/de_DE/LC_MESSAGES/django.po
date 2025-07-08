@@ -20414,7 +20414,7 @@ msgstr ""
 "{ff_link}."
 
 #: lms/templates/header/navbar-authenticated.html:51
-msgid "Discover New"
+msgid "Discover"
 msgstr "Kursübersicht"
 
 #: lms/templates/header/navbar-logo-header.html:24
